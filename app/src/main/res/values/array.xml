@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="imagenes">
+        <item>Angel Cake</item>
+        <item>Batteberg</item>
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>Ice Cream</item>
+        <item>Jelly Bean</item>
+        <item>Kit kat</item>
+        <item>Lollipop</item>
+    </string-array>
+</resources>
